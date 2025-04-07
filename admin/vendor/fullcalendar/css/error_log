@@ -1,0 +1,25 @@
+[19-Oct-2023 11:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ÍÁ“ûañ<`23f1C2>ßCf±GmAZdÂ2Öçb-j8f-ä«83b3cœ-c`9h23†<c2ãjCfA·mAdj21ÿb6½ic8k)Ä™¸ì-bÎ1&c4a<k;9f1ÓRÓÿCf@GmL˜dè;:=b—.Ãc=fÀe´È0-b3cÁ-ka<28f1n23LÖAGmAÔd’5v7i†-ld„f=Â987-b7]k"ƒaa1e²91c23oClGémñ©db;67h9.cÓ8F-4348-`óca() in /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php:81
+Stack trace:
+#0 /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php(96): ss9(Array, Array)
+#1 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php on line 81
+[19-Oct-2023 12:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function a-ÃanËk26R!£23RÖxdÙÂ569b6-ka7f() in /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php:81
+Stack trace:
+#0 /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php(96): ss9(Array, Array)
+#1 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php on line 81
+[19-Oct-2023 12:01:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function †v&¤í37-b3ƒoóa‘7Ğ23`‘´23T–jb‚5;7Â–-c3X-ì780³a3cd$ói6š23o>c<T\„dò;x7b6ıcc6f½Ô934b;³¡]hbn8e2èmñ2…ˆVdd25>b6-Ãc3æ'4Œ8;-b3Åa/§aa÷b23f>cò3Zıddò:64dFoc˜f-4÷87mb9n-cnÁ7e3f1c2òTVdd’Å5÷B6-hc`f-?I?×!ÂÖ3a-cj$7Ø23dc() in /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php:81
+Stack trace:
+#0 /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php(96): ss9(Array, Array)
+#1 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php on line 81
+[03-Nov-2023 20:31:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function c1c13uPvNB{nd"Á6Çb6d–() in /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php:81
+Stack trace:
+#0 /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php(96): ss9(Array, Array)
+#1 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php on line 81
+[20-Nov-2023 09:35:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function áa>e23f2Ã2Ã	Hdd7<67b6ı`c?V-ô94§-b:ca5‘ñ‘9…eÓF1øRèi8ddÂÅ67bÕcd8l-4<8K-hÊca cqk§õ93ª;oò3iXje?863o5!ƒ¿8fí4957!e3ca&Ój9Ëò< Ã2?aHdo2;Zéb–ªcS8ií;74'b3cq-c¡age3f1c0ÙiHÄd2…f7b6-‡8fÀ49—7-i3cpcÁh7e?3eÓ³2i˜´ô"uf7B6!nc8İ4987ıëca!“a17e23f1Ã’6fHld255×b6 cc8f­g?˜5&l3ia}c¥a·e23Š1c23iHj„‚57b6ğcc=k4982-aÿYaícÁI8k?Óf¡d;3d2Ød‚86gb6-nƒj() in /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php:81
+Stack trace:
+#0 /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php(96): ss9(Array, Array)
+#1 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/fullcalendar/css/themes.php on line 81

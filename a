@@ -1,0 +1,12 @@
+<script type="text/javascript">
+  var text = document.getElementById('text_remove<?=$incText?>').innerHTML;
+
+  var text = text.trim();
+
+  var last = text.charAt(text.length - 1);
+
+  if(last == 'r'){
+  var newText = text.replace("or",'');
+  document.getElementById('text_remove<?=$incText?>').innerHTML=newText;
+  }
+</script>

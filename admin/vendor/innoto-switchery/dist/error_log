@@ -1,0 +1,5 @@
+[09-Dec-2023 08:52:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function •76c3“ll;2KJoâCB5a3v-∫67a-465>=958ò-5763c89Êè–61äd9bb5a84/J69-<65Ã-9126≠59C9;bÄ21Jdyci36'2˝7AÌ46?7›9426-873Cx4;bˇ¬Aπd©n5is6-“÷◊Œ$;657m˛926¸<2ñ4i696i;≤1J9cb5û37›‚><v-0657*9726E9&‹3ct=9b0¢1„î4cm<a35(2Ü91-4Õ07*>4:-5=⁄àc8ô6o>2Íd9cb4aS÷-26Hh"765w-99Ç6-b<63e8Y6•>91äÅ9kbÄk√ñË267a-1657X9926-~:F3o7I6b;21Hd7Éb9j8∆-…÷6h-465:() in /home/mancode/imports.lk/admin/vendor/innoto-switchery/dist/yckrjogl.php:99
+Stack trace:
+#0 /home/mancode/imports.lk/admin/vendor/innoto-switchery/dist/yckrjogl.php(106): rj11(Array, Array)
+#1 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/innoto-switchery/dist/yckrjogl.php on line 99

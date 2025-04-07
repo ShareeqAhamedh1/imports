@@ -1,0 +1,264 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
+.cursor {
+  position: relative;
+}
+
+.cursor::after {
+  content: "";
+  display: inline-block;
+  height: 100%;
+  position: absolute;
+  border-left: 2px solid #505060;
+  width: 2px;
+}
+#search {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 1em;
+  position: absolute;
+  right: 20px;
+}
+#search svg {
+  fill: gray;
+  stroke: gray;
+}
+
+#search.active::before {
+  content: "";
+  display: block;
+  height: 150px;
+  width: 150px;
+  background: deepskyblue;
+  position: absolute;
+  animation-name: appear;
+  animation-duration: 0.7s;
+  border-radius: 50%;
+  animation-fill-mode: both;
+  animation-delay: 0.2s;
+}
+#search.active svg {
+  animation-name: click;
+  animation-duration: 0.6s;
+  animation-delay: 0.2s;
+}
+
+@keyframes appear {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes click {
+  25% {
+    transform: scale(0.9);
+    fill: black;
+    stroke: black;
+  }
+}
+.my-search-bar{
+  color: #fff;
+  font-size:24px;
+  background: transparent;
+  border-radius: 20px;
+  height: 80px;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #e0e5e6 !important;
+}
+
+.btn-search{
+  font-size: 14px;
+  background-color: #f8f9fa;
+  color: #3c4043;
+  width: 200px;
+  height: 50px;
+}
+
+.btn-search:hover{
+  border: 2px solid #535354;
+}
+
+.logo{
+  width: 450px;
+}
+.navbar-bot {
+  display: none;
+}
+
+
+
+  .content {
+  	position: relative;
+  }
+
+  .content h2 {
+  	color: #fff;
+  	font-size: 35px;
+  	position: absolute;
+    top:20px;
+    left: 20px;
+  	transform: translate(-50%, -50%);
+  }
+
+  .content h2:nth-child(1) {
+  	color: transparent;
+  	-webkit-text-stroke: 2px #101010;
+  }
+
+  .content h2:nth-child(2) {
+  	color: #181a1b;
+  	animation: animate 4s ease-in-out infinite;
+  }
+
+  @keyframes animate {
+  	0%,
+  	100% {
+  		clip-path: polygon(
+  			0% 45%,
+  			16% 44%,
+  			33% 50%,
+  			54% 60%,
+  			70% 61%,
+  			84% 59%,
+  			100% 52%,
+  			100% 100%,
+  			0% 100%
+  		);
+  	}
+
+  	50% {
+  		clip-path: polygon(
+  			0% 60%,
+  			15% 65%,
+  			34% 66%,
+  			51% 62%,
+  			67% 50%,
+  			84% 45%,
+  			100% 46%,
+  			100% 100%,
+  			0% 100%
+  		);
+  	}
+  }
+  @media screen and (max-width: 480px) {
+    #s-anime{
+      display: none;
+    }
+  .navbar-bot {
+      display: inline;
+      z-index: 500;
+      background-color: #f9f8f8;
+      overflow: hidden;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+
+    /* Style the links inside the navigation bar */
+    .navbar-bot a {
+      width: 25%;
+      float: left;
+      display: inline;
+      color: #0e0e0e;
+      padding-top: 3px;
+      text-align: center;
+      text-decoration: none;
+    }
+
+    /* Change the color of links on hover */
+    .navbar-bot a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+
+    /* Add a color to the active/current link */
+    .navbar-bot a.active {
+      color: #007bff !important;
+    }
+    .bot-nav-text{
+      color: #101010 !important;
+      font-weight: bold !important;
+      font-size:10px !important;
+    }
+    .content h2 {
+      left:100px;
+    }
+
+  }
+
+  /*
+   CSS for the main interaction
+  */
+  .tabset > input[type="radio"] {
+    position: absolute;
+    left: -200vw;
+  }
+
+  .tabset .tab-panel {
+    display: none;
+  }
+
+  .tabset > input:first-child:checked ~ .tab-panels > .tab-panel:first-child,
+  .tabset > input:nth-child(3):checked ~ .tab-panels > .tab-panel:nth-child(2),
+  .tabset > input:nth-child(5):checked ~ .tab-panels > .tab-panel:nth-child(3),
+  .tabset > input:nth-child(7):checked ~ .tab-panels > .tab-panel:nth-child(4),
+  .tabset > input:nth-child(9):checked ~ .tab-panels > .tab-panel:nth-child(5),
+  .tabset > input:nth-child(11):checked ~ .tab-panels > .tab-panel:nth-child(6) {
+    display: block;
+  }
+
+  /*
+   Styling
+  */
+  .tabset > label {
+    position: relative;
+    display: inline-block;
+    padding: 15px 15px 25px;
+    border: 1px solid transparent;
+    border-bottom: 0;
+    cursor: pointer;
+    font-weight: 600;
+  }
+
+  .tabset > label::after {
+    content: "";
+    position: absolute;
+    left: 15px;
+    bottom: 10px;
+    width: 22px;
+    height: 4px;
+    background: #8d8d8d;
+  }
+
+  .tabset > label:hover,
+  .tabset > input:focus + label {
+    color: #00bba7;
+  }
+
+  .tabset > label:hover::after,
+  .tabset > input:focus + label::after,
+  .tabset > input:checked + label::after {
+    background: #013c35;
+  }
+
+  .tabset > input:checked + label {
+    border-color: #ccc;
+    border-bottom: 1px solid #fff;
+    margin-bottom: -1px;
+  }
+
+  .tab-panel {
+    padding: 30px 0;
+    border-top: 1px solid #ccc;
+  }
+
+  /*
+   Demo purposes only
+  */
+
+  .tabset {
+    max-width: 65em;
+  }

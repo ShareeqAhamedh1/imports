@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Installation Progress</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.15/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        /* Custom styles for the progress bar container */
+        .progress-container {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            z-index: 999;
+        }
+                /* Animation for the logo */
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {
+                transform: translateY(0);
+            }
+            40% {
+                transform: translateY(-10px);
+            }
+            60% {
+                transform: translateY(-5px);
+            }
+        }
+
+        /* Style for the logo */
+        .logo {
+            width:230px;
+            animation: bounce 2s infinite;
+        }
+    </style>
+</head>
+<body>
+    <div class="progress-container">
+        <p class="text-xl font-semibold">Multi-device compatible system is installing</p>
+        <div class="relative pt-1">
+            <div class="flex mb-2 items-center justify-between">
+                <div>
+                    <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-teal-600 bg-teal-200">
+                        In Progress
+                    </span>
+                </div>
+            </div>
+            <div class="flex mb-2 items-center justify-between">
+                <div class="flex-1">
+                    <div class="relative w-full bg-gray-200 rounded-full">
+                        <div class="absolute left-0 top-0 text-center text-xs w-full pt-1">
+                            <!-- Progress Bar -->
+                            <div class="h-2 bg-teal-500 rounded-full"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-left mt-4">
+            <ul>
+                <li><strong>iPhone:</strong> In Progress</li>
+                <li><strong>Android:</strong> Completed</li>
+                <li><strong>Windows:</strong> In Progress</li>
+                <li><strong>Mac:</strong> In Progress</li>
+                <li><strong>Web:</strong> In Progress</li>
+                <li><strong>Other Compatibles:</strong> Completed</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Simulate progress with JavaScript (for demonstration purposes) -->
+    <script>
+        function simulateInstallation() {
+            let progress = 0;
+            const progressBar = document.querySelector('.bg-teal-500');
+            const progressText = document.querySelector('.text-teal-600');
+
+            const interval = setInterval(() => {
+                if (progress < 100) {
+                    progress += 10;
+                    progressBar.style.width = `${progress}%`;
+                } else {
+                    clearInterval(interval);
+                    progressText.textContent = 'Installation Complete';
+                }
+            }, 1000000);
+        }
+
+        // Simulate installation progress (remove this in a real scenario)
+        simulateInstallation();
+    </script>
+</body>
+</html>

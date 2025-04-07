@@ -1,0 +1,9 @@
+[19-Oct-2023 11:59:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ÔQf·-G&fNhO-D·êR–k+MGsHeehBg“¤ÀUaW7-X‘k-½¥†-oNlJÓDÊ^fçcKûGsèjehB9sİPÅfWw-˜QiM†r8-cNHO-?{Nši-£KMGŸHa¨Fis…€ef·w­‡QdG-EıfÎbO-Hw:”omÃA§~¨fehBis} ÓfWu-XQ`M½bùF-fNhOídwJSfİeKM@“CeejHis.PåfWw-²QiM&rMIrnCh¯}DwúTÄ.cKM›sÈbÕhO “-µkkùç-èPÙ…]råF-iNjO-D‡GTÖ$n›AGsHejhB |-PefÇq-SZv­MrÅF!mCHHíD{´PfhhL=F©EUaBi|-ğjfW‡%¨RlAMrAv-f@hˆ­ôwFÄf-mAM7sˆeeÇB­ú°fZ§-Viª-BèHïeÎhm-Dw5¼‰ äí÷sHEeh‚is=0Åm^z!X^iM_˜EV-lEfAíHwJTf-cKJrHkUh@iÓ-PaHVw(XQiM-rEH'fN() in /home/mancode/imports.lk/admin/vendor/jquery-asColor/grzbugmd.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/jquery-asColor/grzbugmd.php on line 22
+[19-Oct-2023 12:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ÓKMGslFd isíP`ÖWw"QdM-B¯‹-fN¼O-DwúTf)cDME£lFfIis‡Pef×·((QaM-rNCfNBnDûJ´g"cØMGsl$øÉx-5fw!XiM-rEöNlK-D·¨Tf-h«½GÓdKhBi“&_efWw-X‘dM-pÿF-fNbOıDwATfc¶cGİ\FaIa“-]eÜW{-\QiM-rEF-fNhO(D5
+”fiKMG¾l¦dBi-€e Wç&XQiı¢EF-æNhL-D×JTf•ŸKMMriFh©¾(Pe&Pÿ-XÉM-rE¦-fhJ-DƒJTlc»@GsÌFhBix'P¥bWw-X±`M%wÑFknhO&J×ETö!cKOÇvlEgIi/PÕfWƒİQqÙM-²EJÍfDg+D·JW6s@ıGslF¨Mi³}PeVWÇ-‡]9ä-}æ@,fÑ`²(dGJTf“ÓKMNqïhCYs() in /home/mancode/imports.lk/admin/vendor/jquery-asColor/grzbugmd.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/jquery-asColor/grzbugmd.php on line 22

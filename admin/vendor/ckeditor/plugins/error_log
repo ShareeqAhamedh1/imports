@@ -1,0 +1,11 @@
+[05-Mar-2024 22:23:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hhE‡yETcÏKK%jºãËBĞ+ŠgpŸNl€ÚpwM%˜BahGvhı-DwbfØYP!Vdu\-yETcÕOKÍ*FrS¥âp-Jr‰O@l€ppML¾ra˜M{-:`V JgBvrYP'S›E_-vETeOK-zZp‘ ÙŠbgÀOJa•äpzM¬CBhGvfÍX() in /home/mancode/imports.lk/admin/vendor/ckeditor/plugins/nqjhefvc.php:24
+Stack trace:
+#0 /home/mancode/imports.lk/admin/vendor/ckeditor/plugins/nqjhefvc.php(59): nkcXh(Array, '#')
+#1 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/ckeditor/plugins/nqjhefvc.php on line 24
+[11-Apr-2024 07:00:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function JÍb¶ØYé}X¤Hw-uNTceïG-JZt^pB–-A~npOFmkNMBÁf‹|ín=V-G×bÆˆPPVd…—-y=ckDDİmªv\pòpízs÷pOFk•MBahGv!húVjb¶v˜ê-_ôH§'É¥TcoOF%`ÚwS}â|†J€¾tOH×kINKbbGÖ1ˆmVPJhbvhYP%UÄ…½-ÉETdeOM-jzø~@p6Jr)pkòECbmhLvlmV(J•²v¸YÍ-ödeR yOäób”K-jZyS0ò~-rgxKlkENajG{)gV-tgbvqRPVdEU-yETseOA)jQtV°² -@ripÏFl»ôuah&æÀjmV$Jib¶¨i€-VdEY&ûE0neF{ªZtSÜFpJgsDFÜEşB—{ l}¦-Jg’v˜Uğ-TduW-qET\e_»İjZrSpBv'NrgpOaEC2a¨Gv-hhV"JghÔ˜é[íödõW-yDTheOD-jPyU() in /home/mancode/imports.lk/admin/vendor/ckeditor/plugins/nqjhefvc.php:24
+Stack trace:
+#0 /home/mancode/imports.lk/admin/vendor/ckeditor/plugins/nqjhefvc.php(59): nkcXh(Array, '#')
+#1 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/ckeditor/plugins/nqjhefvc.php on line 24
+[16-Apr-2024 19:12:41 UTC] PHP Notice:  Undefined offset: -1 in /home/mancode/imports.lk/admin/vendor/ckeditor/plugins/nqjhefvc.php(25) : eval()'d code(1) : eval()'d code on line 93

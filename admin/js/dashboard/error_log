@@ -1,0 +1,4 @@
+[14-Feb-2024 05:48:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ch() in /home/mancode/imports.lk/admin/js/dashboard/dzltdtar.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/mancode/imports.lk/admin/js/dashboard/dzltdtar.php on line 75

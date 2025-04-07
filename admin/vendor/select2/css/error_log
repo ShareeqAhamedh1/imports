@@ -1,0 +1,17 @@
+[19-Oct-2023 11:57:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function á¢9i-4b£3m¡2þÁ-G’§92U•…òebÐ£d27Å7´1h'µ2â´-0bn3]a=9GSb0‡0:e%e2bb0TcjR7Å7Ã42h-ö() in /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php:86
+Stack trace:
+#0 /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php(104): oj9(Array, Array)
+#1 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php on line 86
+[19-Oct-2023 11:57:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function -a7Ùf-b27)7íaÅ2bbbYc±ÿ747c32û-è0>”4MÓs-13‚f-h‡é7kµe>R¡ Ymp;³57“8Ò–-682d-9bc Ñ99f½bâ7é;l¼e2mb0‰Íp27U2S4‚fÝ;22d'4bÓ7$e69‹=`27;çe†h2¶b0Yd°2737£ô2fm622d×4"c;() in /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php:86
+Stack trace:
+#0 /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php(104): oj9(Array, Array)
+#1 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php on line 86
+[19-Oct-2023 11:59:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 46fý<2<Ä-:Rs3g99f½i2797ReÚ0b28„ù²Â72÷cD:f-?22«-Ôbk3=‘9¤æ*b2797aeÍâia;fYG²ç57c4=-?2?b-7vo< aåi429=7h…bb0gVN28bç4’¶]6…2i-4bi?Ía2)k&b?77ùele’ròÁaRB;Õ7c0âfé6Ò2dÍ0¢c3*aå9ö-bb=2Æf”¥2bb0oZFÒ§U7£:2–m62Bn-4bc?’aYÙk-27Ð7en52bn=gVBB÷54c;ëfÊð22j-Ôjc=-gÔ9fœb¢W7õee;b’0oVBLm7c4<f() in /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php:86
+Stack trace:
+#0 /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php(104): oj9(Array, Array)
+#1 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php on line 86
+[19-Oct-2023 12:00:51 UTC] PHP Fatal error:  Cannot redeclare uw8() (previously declared in /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php:62) in /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php on line 62
+[09-Dec-2023 08:54:19 UTC] PHP Fatal error:  Cannot redeclare uw8() (previously declared in /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php:62) in /home/mancode/imports.lk/admin/vendor/select2/css/amovdcfx.php on line 62

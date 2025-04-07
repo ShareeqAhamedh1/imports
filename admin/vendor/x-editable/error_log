@@ -1,0 +1,5 @@
+[15-Nov-2023 21:36:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function `-imHkUáp[^M`vt,øwB UUGlSYĞäw¢Fƒp`K-sTcHãF3]lFÇFc%LD}kXOäUXêgVtG$Xwx-E_™eQYp!wBGrlKTc´giC–cD—÷CÉaAkX¿pUQGetäXwB-EUOŠSp"FCxl'">ToJäh-©lFÇ§c-L=…KıC Å]Z‰©”C/Xw)]OeSéÌw¢
+Iul@-sTÍFdC}XlEwGg&l2mXCàU_@es„u-XÈBWEUMêSY°)wBD pl½=|DcDdlB-xl¦wGcÍ¬mşëHOpUZševtAMXwL-K[¨eSS€&wJMCpjKsTcHdØCXkFÎGc-lmAkX¯°W±¾åvuG-_wA-EµOhSöp+w¿æB‘ñN,ÙT3DdkCıˆcFwCcÍfkAÁSOzUÁJÕvtC-‘wBĞGÎFhƒYĞ'wHFCpdû-sTÃDäeCí^löwLÓİlmMf_OtU~Jg±£-wâ,EUO™SYs-wµFCğlëSTcDdˆC-XlFwGcœ`A›øp¥QJevtC-X{B-µõOeSYpGqBÚCpaKsW3NÄ¨Â-XlFÇG¼-¼İAkhOpUQJk–tK-XE-ñU@e]Vpíw¢FI.lK-ãTlDThC-XlF÷G() in /home/mancode/imports.lk/admin/vendor/x-editable/rkbrzwsi.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mancode/imports.lk/admin/vendor/x-editable/rkbrzwsi.php on line 27
